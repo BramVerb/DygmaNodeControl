@@ -4,4 +4,5 @@ This repo provides an example for creating a nodejs project that uses the Dygma 
 
 ## Usage
 Installation: `npm install`
+
 Running: `npm run build`
