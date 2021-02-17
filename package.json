@@ -1,0 +1,23 @@
+{
+  "name": "dygmanodecontrol",
+  "version": "1.0.0",
+  "description": "A package for demonstrating the focus api for the dygma raise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BramVerb/DygmaNodeControl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BramVerb/DygmaNodeControl/issues"
+  },
+  "homepage": "https://github.com/BramVerb/DygmaNodeControl#readme",
+  "dependencies": {
+    "@bazecor-api/focus": "0.0.7",
+    "@bazecor-api/hardware-dygma-raise-ansi": "0.0.11"
+  }
+}
