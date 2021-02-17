@@ -10,5 +10,6 @@ focus.open(Models.Raise_ANSI).then(() => {
   // Set the z key to white
   focus.command("led.at 21 255 255 255").then((response) => {
     console.log(response);
+    focus.close();
   });
 });
